@@ -17,9 +17,13 @@ building software, exploring security and creating digital experiences.
 
 ### Project
 
+
 **VIX Studios Bot (in development)** — Discord bot for anti-nuke protection, moderation, and server management.
+
 **VIX Hub (in development)** — Desktop utilities and tools for development, cybersecurity, and more.
-**VIX(Lang) (Open Source, in development)** — A programming language designed for backend development.
+
+**VIX Lang (Open Source, in development)** — A programming language designed for backend development.
+
 
 ### DM:
 

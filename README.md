@@ -16,4 +16,4 @@ building software, exploring security and creating digital experiences.
 
 ### connect
 
-[Discord](https://discord.com/) · [Telegram]([https://github.com/v1xiiii](https://web.telegram.org/k/#6198382287)
+[Discord](https://discord.com/) · [Telegram](https://web.telegram.org/k/#6198382287/)

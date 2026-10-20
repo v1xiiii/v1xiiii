@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**v1xiiii/v1xiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# v1xiiii
 
-Here are some ideas to get you started:
+**software developer / cybersecurity / ui/ux**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+building software, exploring security and creating digital experiences.
+
+### skills & technologies
+
+`C#` · `Rust` · `Python` · `UI/UX` · `Cybersecurity` · `Pentesting`
+
+### projects
+
+**VIX Studios** — software development ecosystem  
+**VIX Hub** — desktop utilities & tools
+
+### connect
+
+[Discord](https://discord.com/) · [Telegram]([https://github.com/v1xiiii](https://web.telegram.org/k/#6198382287)

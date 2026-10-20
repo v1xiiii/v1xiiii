@@ -15,11 +15,12 @@ building software, exploring security and creating digital experiences.
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-242424?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Pentesting](https://img.shields.io/badge/Pentesting-242424?style=for-the-badge&logo=kali-linux&logoColor=white)
 
-### projects
+### Project
 
-**VIX Studios** — software development ecosystem  
-**VIX Hub** — desktop utilities & tools
+**VIX Studios Bot (in development)** — Discord bot for anti-nuke protection, moderation, and server management.
+**VIX Hub (in development)** — Desktop utilities and tools for development, cybersecurity, and more.
+**VIX(Lang) (Open Source, in development)** — A programming language designed for backend development.
 
-### connect
+### DM:
 
 [Discord](https://discord.com/) · [Telegram](https://web.telegram.org/k/#6198382287/)

@@ -1,7 +1,7 @@
 
 # v1xiiii
 
-**software developer / cybersecurity / ui/ux**
+**developer / cybersecurity / ui/ux**
 
 building software, exploring security and creating digital experiences.
 
